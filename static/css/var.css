@@ -1,0 +1,12 @@
+:root{
+    /* vars global documents*/
+
+    /* color general theme main*/
+    --color-pink-general: rgba(193,6,166,1);
+
+    /* background color body general */
+    --color-background-general-body: linear-gradient(to right top, #000000, #171616, #262524, #363534, #454644);
+
+    /* saturation colors */
+    --color-saturation-general: rgba(66,68,72, 1);
+}
