@@ -141,7 +141,7 @@ body{
     cursor: pointer;
 }
 .btn__next-generic::before{
-    content: "MORE INFO";
+    content: "mira el codigo";
     position: absolute;
     border-radius: 0.2rem;
     width: 100%;
